@@ -1,0 +1,7 @@
+
+package Documento;
+
+
+interface serializable {
+    
+}
